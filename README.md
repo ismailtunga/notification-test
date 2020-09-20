@@ -1,14 +1,14 @@
-#Web Socket kullanarak notification gönderme
+--Web Socket kullanarak notification gönderme--
 
-##Project Start
+-Project Start
 
 npm run devStart
 
-##Nodification Page
+-Nodification Page
 
 http://localhost
 
-##Notification Send Page
+-Notification Send Page
 
 http://localhost/notification-sender.html
 
